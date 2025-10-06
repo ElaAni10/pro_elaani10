@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-main
-=======
-conflit
->>>>>>> 61016dade4a1772e38c2d285afc657664b6897fc
